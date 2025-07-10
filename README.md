@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on Data related work.
 - 📫 How to reach me https://www.linkedin.com/in/saverashah-gwu/
 - 😄 Pronouns: She/Her
+Find my Projects here https://github.com/Savera-Shah1/myfirstrepository.git
 
 <!---
 Savera-Shah1/Savera-Shah1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
