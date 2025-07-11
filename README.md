@@ -15,7 +15,7 @@ Welcome to my GitHub! I’m a graduate student in Business Analytics at The Geor
 ## 🌱 What I’m Working On
 - Re-designing a university course I’ll be TA-ing in Fall 2025
 - Applying advanced econometric techniques in R
-- Learning causal inference frameworks and experimental design (RCTs, DiD, LATE)
+- Learning causal inference frameworks and experimental design (RCTs)
 
 ---
 
